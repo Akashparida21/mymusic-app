@@ -1,4 +1,4 @@
-"name: Build MyMusic APK
+name: Build MyMusic APK
 
 on:
   push:
@@ -52,5 +52,4 @@ jobs:
       with:
         name: MyMusic-APK
         path: bin/*.apk
-        retention-days: 30"
- content://downloads/all_downloads/3398#:~:text=name%3A%20Build%20MyMusic,retention%2Ddays%3A%2030
+        retention-days: 30
