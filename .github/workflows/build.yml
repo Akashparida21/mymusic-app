@@ -1,4 +1,4 @@
-"name: Build MyMusic APK
+name: Build MyMusic APK
 
 on:
   push:
