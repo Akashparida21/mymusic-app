@@ -12,12 +12,13 @@ fullscreen = 0
 android.permissions = INTERNET, WAKE_LOCK, FOREGROUND_SERVICE, FOREGROUND_SERVICE_MEDIA_PLAYBACK, READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE
 android.api = 33
 android.minapi = 24
-android.ndk = 25b
+android.ndk = 24
 android.sdk = 33
 android.ndk_api = 24
 android.accept_sdk_license = True
 android.archs = arm64-v8a, armeabi-v7a
 p4a.branch = develop
+p4a.bootstrap = sdl2
 
 [buildozer]
 log_level = 2
